@@ -20,6 +20,8 @@
     
     NSLog(@"dev2");
     
+    NSLog(@"dev");
+    
     return YES;
 }
 
